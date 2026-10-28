@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/hikaru/Downloads/orderbook-dom/build/cmake_install.cmake",
-		"/home/hikaru/Downloads/orderbook-dom/build/_deps/glfw-build/cmake_install.cmake",
-		"/home/hikaru/Downloads/orderbook-dom/build/_deps/glfw-build/src/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

@@ -1,1 +1,0 @@
-/usr/sbin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/dom.dir/link.d CMakeFiles/dom.dir/src/main.cpp.o -o dom  libimgui.a /usr/lib/libssl.so /usr/lib/libcrypto.so _deps/glfw-build/src/libglfw3.a /usr/lib/librt.a -lm -ldl /usr/lib/libGLX.so /usr/lib/libOpenGL.so
