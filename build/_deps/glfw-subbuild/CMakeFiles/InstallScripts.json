@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/hikaru/Downloads/orderbook-dom/build/_deps/glfw-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
